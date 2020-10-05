@@ -1,4 +1,4 @@
-# Errata for *learn Data Science Using SAS Studio*
+# Errata for *Learn Data Science Using SAS Studio*
 
 On **page xx** [Summary of error]:
  
