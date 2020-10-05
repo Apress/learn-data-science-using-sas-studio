@@ -1,9 +1,9 @@
 # Apress Source Code
 
-This repository accompanies [*%booktitle%*](https://www.apress.com/%isbn%) by %author% (Apress, %pubyear%).
+This repository accompanies [*Learn Data Science Using SAS Studio*](https://www.apress.com/9781484262368) by Engy Fouda (Apress, 2020).
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](9781484262368.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
